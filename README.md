@@ -1,6 +1,6 @@
 # **On greedy randomized block Gauss–Seidel method with averaging for sparse linear least-squares problems**
 
-This repository contains the MATLAB code for GRABGS introduced in the following paper 
+:computer: This repository contains the MATLAB code for GRABGS introduced in the following paper 
 
 ```html
 Y. M. Liao, T. X. Lu. On greedy randomized block Gauss–Seidel method with averaging for sparse linear least-squares problems. Calcolo, 60(4), 53, 2023. 
@@ -34,4 +34,5 @@ If you find this algorithm useful in your research, please consider citing:
   publisher={Springer}
 }
 ```
+
 
